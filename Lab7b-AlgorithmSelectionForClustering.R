@@ -249,7 +249,7 @@ if (require("ggcorrplot")) {
                    repos = "https://cloud.r-project.org")
 }
 
-# STEP 2. Load the Dataset ----
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++# STEP 2. Load the Dataset ----
 # Source: http://insideairbnb.com/cape-town/
 # Save the dataset as "listings_summary_cape_town.csv" inside the data folder
 
